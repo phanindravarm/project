@@ -9,7 +9,7 @@ export default function Grouping() {
       "https://raw.githubusercontent.com/ksubbu199/ksubbu199.github.io/gh-pages/feed.atom"
     );
     // setFeeds(jsonObj.feed.entry);
-    const info=jsonObj.feed.entry
+    const info=jsonObj?.feed.entry
     const result = Object.groupBy(info, ({ updated }) => updated);
     setFeeds(result)
     // console.log("length ",feeds["2024-09-03"].length)
@@ -20,15 +20,15 @@ export default function Grouping() {
   }, []);
 
 
-  console.log(feeds["2024-09-03"].length)
+  console.log(feeds["2024-09-04"]?.length)
   
 
   return (
     <>
-    {/* <h1>heyyyy</h1>
-      {feeds["2024-09-03"].map((feed) => {
+    <h1>heyyyy</h1>
+      {feeds["2024-09-04"]?.map((feed) => {
         return <Feed {...feed} />;
-      })} */}
+      })}
     
     </>
   );
