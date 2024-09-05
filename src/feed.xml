@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ksubbu199.github.io/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2024-09-03T06:22:10.419Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
+    <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Payroll startup Cercli inks $4M to build the “Rippling for the Middle East and North Africa”]]></title>
+        <id>https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/</id>
+        <link href="https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/"/>
+        <updated>2024-09-02T20:04:00.000Z</updated>
+        <summary type="html"><![CDATA[While scaling and managing teams at two of the largest unicorns in the Middle East and North Africa (MENA) region, Akeed Azmi and David Reche stumbled on what they believed was a $2 billion opportunity. They realized that their former employers at Careem and Kitopi as well as other local businesses in the region struggled with payroll management and high compliance costs due to human error.
+Cercli, the startup they launched in January, addresses this challenge via software it developed that allows businesses in the MENA region to hire, manage and pay their global workforce. The potential of Cercli’s platform has attracted investor interest, leading to $4 million in seed funding led by San Francisco-based Afore Capital, marking the fund’s first deal in the region.
+
+
+
+
+Afore Capital backed C…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hospital at home’ startup Doccla raises $46 million for its European expansion]]></title>
+        <id>https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/</id>
+        <link href="https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/"/>
+        <updated>2024-09-02T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hospitals around the world regularly face bed shortages — an issue that can get exacerbated to breaking point when a health scare or other large-scale disaster occurs. A startup called Doccla is bringing technology to bear address the issue: it’s building “virtual bed” tech to help doctors remotely manage patients who have either been discharged early, or in some cases never go to the hospital at all. After gaining traction in the U.K. and Ireland, it’s now raised £35 million ($46 million) to expand in Europe.  
+Lakestar is leading the Series B round; Elaia and several existing investors are also participating. The funding comes two years after Doccla raised a $17 million Series A. 
+
+
+
+
+Doccla, which competes with companies like  Graphnet and Huma among others, will use the funding in part…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigEndian founders hope to use their deep chip experience to help establish India in semiconductors]]></title>
+        <id>https://techcrunch.com/2024/09/02/bigendian-embarks-on-surveillance-chip-development-from-india/</id>
+        <link href="https://techcrunch.com/2024/09/02/bigendian-embarks-on-surveillance-chip-development-from-india/"/>
+        <updated>2024-09-02T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[India, despite being home to 20% of the world’s chip designers, lacks a significant presence in the global semiconductor market. However, in recent months, the Indian government has begun investing in an effort to establish the country in semiconductors, as companies worldwide have adopted a “China-plus-one” strategy, seeking alternatives to China. 
+BigEndian Semiconductors aims to capitalize on this shift by kicking off development of surveillance chips for cameras. 
+
+
+
+
+Founded in May, the Bengaluru-based fabless design startup is led by CEO Sunil Kumar, a former executive at ARM Broadcom, and Intel, and the rest of the founding team add experience at chipmakers like Broadcom and Cypress Semiconductors. 
+Kumar told TechCrunch BigEndian’s founding members had known each other for 25 years…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SparkLabs closes $50M fund to back AI startups]]></title>
+        <id>https://techcrunch.com/2024/09/02/sparklabs-closes-50m-fund-to-back-ai-startups/</id>
+        <link href="https://techcrunch.com/2024/09/02/sparklabs-closes-50m-fund-to-back-ai-startups/"/>
+        <updated>2024-09-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SparkLabs — an early-stage venture capital firm that has made a name for itself for backing OpenAI as well as a host of other AI startups such as Vectara, Allganize, Kneron, Anthropic, xAI, Glade (YC S23) and Lucidya AI — is gearing up to double down more startups in the space. The VC firm announced Tuesday that it has closed a new $50 million fund, AIM AI Fund, which will back AI startups out of its own AIM-X accelerator in Saudi Arabia as well as other AI startups across the globe.
+SparkLabs’ new fund and its wider investment aims underscore the bigger trends that have swirled around artificial intelligence for the last few years. The explosion of interest in generative AI in particular has led to a surge of startups in the space, as well as a rush of investors looking for the next Open …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Nehru’s policies fail India?]]></title>
+        <id>https://www.youtube.com/watch?v=rPkT8OvjyDU</id>
+        <link href="https://www.youtube.com/watch?v=rPkT8OvjyDU"/>
+        <updated>2024-09-02T12:00:12.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024]]></title>
+        <id>https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/</id>
+        <link href="https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/"/>
+        <updated>2024-09-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As companies grapple with the challenge of developing a sustainable business without sacrificing their core principles, open source has evolved from a niche approach to software development into the business model of many successful tech companies. Its principles of transparency and collaboration have fueled innovation, but balancing these ideals with the practical demands of leading a profitable business operation is no easy feat.  
+Industry leaders Casey Aylward, partner at Accel; Scott Johnston, CEO of Docker; and Rowan Trollope, CEO of Reddis will be on the SaaS Stage at TechCrunch Disrupt 2024 to explore the complexities of operating using an open source business model and share their views on upcoming shifts in the landscape. 
+From navigating funding challenges to balancing open sour…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event]]></title>
+        <id>https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/</id>
+        <link href="https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/"/>
+        <updated>2024-09-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether it’s a sophisticated cocktail party, a casual happy hour, a niche meetup, or a skill-building workshop, “Disrupt Week” offers you the flexibility to host a Side Event that truly represents your brand. 
+Take advantage of this opportunity to increase your brand visibility in front of over 10,000 TechCrunch Disrupt 2024 attendees and the vibrant Bay Area tech scene.
+
+
+
+
+Apply for free by September 6. 
+Benefits of hosting a Side Event
+Amplify your impact: Connect with thousands of Disrupt 2024 attendees and the surrounding tech community. We’ll promote your Side Event across multiple platforms to ensure it reaches our expansive and diverse audience:
+Disrupt 2024 Side Event page.
+Disrupt 2024 Agenda.
+Disrupt 2024 Mobile App Agenda.
+Disrupt 2024 attendee emails.
+Disrupt 2024 articles.
+Discount perks for you and your connections: As a Side Event host, you’ll receive a unique discount code for Disrupt 2024 tickets. Share it with your team and network to ensure everyone benefits from this special offer.
+Get started before the deadline
+Looking to make a big impact at one of the biggest tech events of the year? Get started on your free application and submit it by September 6 to take advantage of this incredible opportunity.
+
+
+
+
+The application is simple. Submit a short proposal detailing your event’s vision, objectives and logistical requirements. Upon approval, the TechCrunch Disrupt team will collaborate with you to support your event’s success. You’ll be responsible for the planning, execution and associated costs, including registration and communications.
+Apply today to make a splash during “Disrupt Week” and enhance your brand’s presence.]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future]]></title>
+        <id>https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/</id>
+        <link href="https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/"/>
+        <updated>2024-09-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Andreessen Horowitz’s partner Joshua Lu knows that, in the video game industry, you can never get too comfortable. When he was head of product at Zynga, he experienced the height of mobile games, working on hits like Words with Friends; then as a vice president at Blizzard Entertainment, he helped produce tentpole hits like Diablo Immortal. And then, as a director of product management at Meta, he learned to see games in new dimensions while working on the VR game, Horizon Worlds. 
+“I had to forget what I thought were universal truths and learn a whole new set of ways to do things,” Lu told TechCrunch.
+
+
+
+
+Now Lu wants a front row seat to where video games are heading. After joining the firm as an investor in 2022, Lu helped launch the firm’s Speedrun accelerator, which invests $750,000 ap…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets]]></title>
+        <id>https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/</id>
+        <link href="https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/"/>
+        <updated>2024-09-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Only 5 days remain to grab a $200 discount on Student Passes for TechCrunch Disrupt 2024. This special offer ends on September 6 at 11:59 p.m. PT. Don’t miss out!
+Now that classes are back in session, it’s normal to feel the pressure of rising expenses. Or maybe you’ve recently graduated and are hunting for your first big job. Both scenarios can be hard on your budget.
+
+
+
+
+With over 10,000 tech leaders set to attend Disrupt 2024 from October 28-30 at Moscone West in San Francisco, you have a prime opportunity to make impactful connections and enhance your chances of securing your first post-college job.
+Snag your Student Pass at a reduced rate here.
+What to expect at Disrupt 2024
+Learn from industry leaders
+Discover invaluable insights from leaders and visionaries across various sectors, i…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign or veto: What’s next for California’s AI disaster bill, SB 1047?]]></title>
+        <id>https://techcrunch.com/2024/09/02/governor-newsom-must-weigh-the-future-of-californias-ai-industry-with-sb-1047/</id>
+        <link href="https://techcrunch.com/2024/09/02/governor-newsom-must-weigh-the-future-of-californias-ai-industry-with-sb-1047/"/>
+        <updated>2024-09-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A controversial California bill to prevent AI disasters, SB 1047, has passed final votes in the state’s Senate and now proceeds to Governor Gavin Newsom’s desk. He must weigh the most extreme theoretical risks of AI systems — including their potential role in human deaths — against potentially thwarting California’s AI boom. He has until September 30 to sign SB 1047 into law, or veto it altogether.
+Introduced by state senator Scott Wiener, SB 1047 aims to prevent the possibility of very large AI models creating catastrophic events, such as loss of life or cyberattacks costing more than $500 million in damages.
+
+
+
+
+To be clear, very few AI models exist today that are large enough to be covered by the bill, and AI has never been used for a cyberattack of this scale. But the bill concerns the…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrowdStrike faces onslaught of legal action from faulty software update]]></title>
+        <id>https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/</id>
+        <link href="https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/"/>
+        <updated>2024-09-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When the now infamous CrowdStrike software update took down companies all over the world in July, it was inevitable that lawsuits would follow — and follow they have. Delta suing the company for as much as $500 million in damages and hiring lawyer David Boies is perhaps the highest-profile example.
+Among Boies’ wide range of high-profile clients are Theranos, Harvey Weinstein, victims of Jeffrey Epstein, and Al Gore in Bush v. Gore around the results of the 2000 presidential election. He also led the government’s antitrust case against Microsoft in the 1990s.
+
+
+
+
+Even before Delta came forward, shareholders were looking for their pound of flesh, filing a class action lawsuit against CrowdStrike alleging that the company had misled them regarding its software update procedures.
+For its part…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to branch out beyond Google? Here are some search engines worth checking out]]></title>
+        <id>https://techcrunch.com/2024/09/02/want-to-branch-out-beyond-google-here-are-some-search-engines-worth-checking-out/</id>
+        <link href="https://techcrunch.com/2024/09/02/want-to-branch-out-beyond-google-here-are-some-search-engines-worth-checking-out/"/>
+        <updated>2024-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has dominated the search space for so long that a U.S. District Court judge recently found that it has acted illegally to maintain a monopoly in online search. You have probably used Google Search for as long as you can remember; it’s what replaced things like phone books and encyclopedias. 
+But just because Google runs the most popular engine doesn’t mean you have to use it. If you have never considered a search engine beyond Google, you might be surprised to see what else is out there.
+
+
+
+
+There are many Google Search alternatives on the market that have gained traction. Whether you’re looking for increased privacy, enhanced AI features or just something different, there are some notable options worth checking out.
+While Microsoft’s Bing and Yahoo are arguably the most well-known,…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1M Users]]></title>
+        <id>https://news.ycombinator.com/item?id=41422311</id>
+        <link href="https://blog.spacehey.com/entry?id=1245177"/>
+        <updated>2024-09-02T03:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.spacehey.com/entry?id=1245177
+Comments URL: https://news.ycombinator.com/item?id=41422311
+Points: 519
+# Comments: 125]]></summary>
+        <author>
+            <name>theneedful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customers of Indian crypto exchange WazirX unlikely to recover full funds]]></title>
+        <id>https://techcrunch.com/2024/09/02/customers-of-indian-crypto-exchange-wazirx-unlikely-to-recover-full-funds/</id>
+        <link href="https://techcrunch.com/2024/09/02/customers-of-indian-crypto-exchange-wazirx-unlikely-to-recover-full-funds/"/>
+        <updated>2024-09-02T02:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Customers of WazirX, the Indian cryptocurrency exchange that suffered a $234 million hack in July, are unlikely to recover their funds in full through the ongoing restructuring process, a company legal adviser said on Monday.
+George Gwee, a director at restructuring firm Kroll working with WazirX, said that at least 43% of the money any customer had in WazirX is unlikely to be recovered. Last week, WazirX asked a Singapore High Court for six months’ protection while it restructures its liabilities.
+
+
+
+
+The best case scenario is a return of “anywhere between 55% and 57% of the funds,” Gwee told journalists. Under a restructuring, WazirX’s priority will be to distribute remaining token assets to users in a pro-rata manner via crypto, it said. The company is holding discussions to share profi…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Pi Boot Optimization]]></title>
+        <id>https://news.ycombinator.com/item?id=41420597</id>
+        <link href="https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/"/>
+        <updated>2024-09-01T21:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/
+Comments URL: https://news.ycombinator.com/item?id=41420597
+Points: 501
+# Comments: 135]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia]]></title>
+        <id>https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/</id>
+        <link href="https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/"/>
+        <updated>2024-09-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Validus, a Singapore-based digital lending platform for small and medium businesses, has secured $50 million in debt financing from HSBC under the ASEAN Growth Fund strategy.
+Validus will use the proceeds to support the financial inclusion of micro, small and medium enterprises (MSMEs) in Indonesia, addressing the challenges they face in accessing financial resources.
+
+
+
+
+With 64.2 million MSMEs contributing 61% of Indonesia’s GDP, according to Indonesia’s Ministry for Economic Affairs, the potential for growth is immense. These MSMEs employ about 119.6 million people, which is 97% of the total workforce in the country. However, only about 17.5 million MSME players are tapping into the online ecosystem and e-commerce. Indonesian MSMEs face significant challenges in accessing financing, mai…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple may ditch those old familiar USB-A ports in the new Mac mini]]></title>
+        <id>https://techcrunch.com/2024/09/01/apple-may-ditch-those-old-familiar-usb-a-ports-in-the-new-mac-mini/</id>
+        <link href="https://techcrunch.com/2024/09/01/apple-may-ditch-those-old-familiar-usb-a-ports-in-the-new-mac-mini/"/>
+        <updated>2024-09-01T12:50:27.000Z</updated>
+        <summary type="html"><![CDATA[The Mac mini will be the next Apple device to say goodbye to USB-A, according to Bloomberg’s Mark Gurman.
+Apple customers have probably gotten used to seeing the familiar, rectangular USB-A ports replaced with their thinner USB-C siblings. And while USB-C has its advantages, the transition can sometimes leave users confused and scrambling for adapters.
+The Mac mini, meanwhile, hasn’t been significantly redesigned since 2010, but Gurman says that’s changing this fall. The updated models will include Apple’s new M4 chip, as well as five USB-C ports, plus an Ethernet port, an HDMI connector, and a headphone jack. But the USB-A ports will be gone.
+Apple has a “Glowtime” press event scheduled for September 9, where the company is expected to announce the new iPhone 16. The new Mac lineup may not be announced until later in the fall.]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case against AI art]]></title>
+        <id>https://techcrunch.com/2024/09/01/the-case-against-ai-art/</id>
+        <link href="https://techcrunch.com/2024/09/01/the-case-against-ai-art/"/>
+        <updated>2024-09-01T09:37:27.000Z</updated>
+        <summary type="html"><![CDATA[No matter who powerful generative AI becomes, writer Ted Chiang says it will never create true art.
+Chiang is one of the most admired science fiction authors writing today, best known for the novella “Story Of Your Life” (which was adapted into the movie “Arrival”). But he’s also published terrific pieces for The New Yorker looking at the dangers and shortcomings of AI.
+
+
+
+
+You should really read his latest article in its entirety, but briefly: Chiang argues that the potential of large language models remains “largely theoretical” — thus far, generative AI has been most successful at “lowering our expectations, both of the things we read and of ourselves when we write anything for others to read. It is a fundamentally dehumanizing technology because it treats us as less than what we are: creators and apprehenders of meaning.”
+Even as LLMs improve, Chiang argues that their output will never be art — which he acknowledges is “notoriously hard to define,” but he tries anyway: “Art is something that results from making a lot of choices.” Sure, those choices might not result in a particularly good novel or painting or film, but you’re still “engaged in an act of communication between you and your audience.”
+“We are all products of what has come before us, but it’s by living our lives in interaction with others that we bring meaning into the world,” Chiang concludes. “That is something that an auto-complete algorithm can never do, and don’t let anyone tell you otherwise.”]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palantir’s CTO, and 13th employee, has become a secret weapon for Valley defense tech startups]]></title>
+        <id>https://techcrunch.com/2024/09/01/tktk/</id>
+        <link href="https://techcrunch.com/2024/09/01/tktk/"/>
+        <updated>2024-09-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On August 5, Palantir’s CTO Shyam Sankar stood in front of about 20 nervous new employees at the company’s Washington, D.C. office and gave a speech you’d expect at a new hire meeting: company mission, Palantir’s history, etc. But there was one part that would’ve seemed unfathomable a few years ago: Sankar evangelized the importance of a new wave of defense tech startups, spun up by Palantir, Tesla and SpaceX alums.
+The significance was more ideological than financial. Any business Palantir gets from startups is dwarfed by its government contracts, after all. But you can’t put a price on philosophical bedfellows. 
+
+
+
+
+Palantir likes to remind the world that it’s not like other publicly traded companies; i.e. buttoned-up and appropriately distanced from its cowboy private days. Sankar ends …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Founder Mode]]></title>
+        <id>https://news.ycombinator.com/item?id=41415023</id>
+        <link href="https://paulgraham.com/foundermode.html"/>
+        <updated>2024-09-01T07:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://paulgraham.com/foundermode.html
+Comments URL: https://news.ycombinator.com/item?id=41415023
+Points: 744
+# Comments: 442]]></summary>
+        <author>
+            <name>bifftastic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Emotion AI’ may be the next trend for business software, and that could be problematic]]></title>
+        <id>https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/</id>
+        <link href="https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/"/>
+        <updated>2024-09-01T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[As businesses experiment with embedding AI everywhere, one unexpected trend is companies turning to AI to help its many newfound bots better understand human emotion. 
+It’s an area called “emotion AI,” according to PitchBook’s new Enterprise Saas Emerging Tech Research report that predicts this tech is on the rise. 
+
+
+
+
+The reasoning goes something like this: If businesses deploy AI assistants to execs and employees, make AI chatbots be front-line salespeople and customer service reps, how can an AI perform well if it doesn’t understand the difference between an angry “What do you mean by that?” and a confused “What do you mean by that?”
+Emotion AI claims to be the more sophisticated sibling of sentiment analysis, the pre-AI tech that attempts to distill human emotion from text-based inter…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do so many home robots still suck?]]></title>
+        <id>https://techcrunch.com/2024/09/01/why-do-so-many-home-robots-still-suck/</id>
+        <link href="https://techcrunch.com/2024/09/01/why-do-so-many-home-robots-still-suck/"/>
+        <updated>2024-09-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Jetsons” debuted September 23, 1962. The first episode, titled “Rosey the Robot,” was an origin story of sorts for the titular character, describing how an overworked Jane hired the housekeeper. Sixty-two years after her debut, Rosey remains an important pop cultural touchstone for the unfulfilled promise of home robots.
+The home of 2024 isn’t necessarily wholly devoid of robots. According to its own figures, iRobot has sold more than 50 million Roombas. That, meanwhile, is a fraction of the overall number of robot vacuums that have been sold around the globe. Robot lawnmowers and pool cleaners have gained traction as well, though those figures pale in comparison to their vacuuming counterparts.
+
+
+
+
+Home robots’ unfulfilled potential isn’t because of a lack of consumer demand or lack …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised]]></title>
+        <id>https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/</id>
+        <link href="https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/"/>
+        <updated>2024-09-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Startups globally have faced challenges over the last couple of years when trying to exit, due to factors like a frozen IPO market and reduced attractiveness to buyers. In addition, large mergers-and-acquisitions (M&A) deals have faced heightened regulatory scrutiny, particularly involving Big Tech or multi-billion-dollar conglomerates.
+Notably, a decline in venture investment within any startup ecosystem can often be linked to a lack of exit volume and value. In Africa, for instance, the number of M&A exits peaked at 44 in 2021, when the continent attracted nearly $6 billion in venture capital. However, in 2022, the number of exits dropped to 29, alongside a decrease in venture capital investment to over $3 billion.
+
+
+
+
+Despite these challenges, local investors remain optimistic, saying t…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building LLMs from the Ground Up: A 3-Hour Coding Workshop]]></title>
+        <id>https://news.ycombinator.com/item?id=41412256</id>
+        <link href="https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"/>
+        <updated>2024-08-31T21:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up
+Comments URL: https://news.ycombinator.com/item?id=41412256
+Points: 830
+# Comments: 99]]></summary>
+        <author>
+            <name>mdp2021</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did your car witness a crime?]]></title>
+        <id>https://news.ycombinator.com/item?id=41409882</id>
+        <link href="https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php"/>
+        <updated>2024-08-31T16:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php
+Comments URL: https://news.ycombinator.com/item?id=41409882
+Points: 271
+# Comments: 570]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How did Trump win? #businesscasestudy #marketing #election]]></title>
+        <id>https://www.youtube.com/watch?v=xwlnvbagwF0</id>
+        <link href="https://www.youtube.com/watch?v=xwlnvbagwF0"/>
+        <updated>2024-08-31T15:47:20.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolt reportedly threatens legal action against Silverbear Capital]]></title>
+        <id>https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/</id>
+        <link href="https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/"/>
+        <updated>2024-08-31T13:56:08.000Z</updated>
+        <summary type="html"><![CDATA[In the latest twist in Bolt’s aggressive fundraising efforts, the fintech company’s CEO appears to have made a veiled threat of legal action against Silverbear Capital, the investment bank whose involvement in the deal remains in some dispute.
+“We believe there was some internal miscommunication at Silverbear Capital, one of our lead investors, which has caused unnecessary confusion,” CEO Justin Grooms wrote in an email reportedly viewed by Forbes. “The fact is, they signed a binding term sheet committing $200 million. Our exceptional legal team at Gibson, Dunn & Crutcher stands ready to represent the company in seeking to enforce our rights vigorously.”
+
+
+
+
+Bolt, which offers tools for one-click e-commerce checkout, did not immediately respond to a request for comment. Silverbear partner …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy, Borrow, Die – Explained]]></title>
+        <id>https://news.ycombinator.com/item?id=41408772</id>
+        <link href="https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/"/>
+        <updated>2024-08-31T13:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/
+Comments URL: https://news.ycombinator.com/item?id=41408772
+Points: 509
+# Comments: 420]]></summary>
+        <author>
+            <name>nkurz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil's X ban is sending lots of people to Bluesky]]></title>
+        <id>https://news.ycombinator.com/item?id=41408738</id>
+        <link href="https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky"/>
+        <updated>2024-08-31T13:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky
+Comments URL: https://news.ycombinator.com/item?id=41408738
+Points: 391
+# Comments: 713]]></summary>
+        <author>
+            <name>rvz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky tops app charts and sees ‘all-time-highs’ after Brazil bans X]]></title>
+        <id>https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/</id>
+        <link href="https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/"/>
+        <updated>2024-08-31T13:10:28.000Z</updated>
+        <summary type="html"><![CDATA[A Brazilian court’s decision to ban X (formerly Twitter) seems to be benefiting its rivals, especially Bluesky.
+The microblogging platform announced late Friday that it was seeing “all-time-highs for activity” with 500,000 new users joining in the previous two days. It’s also number one on the free iPhone app chart in Brazil today, ranking just ahead of Meta’s Threads at number two.
+
+
+
+
+Noting the rankings, Bluesky CEO Jay Graber wrote, “good job Brazil, you made the right choice.”
+That growth is particularly impressive for a platform that only fully opened to the public in February and winkingly acknowledged its small size (especially compared to rivals X and Threads) by describing itself as “the short king of social apps.” The company says it had more than 6 million users as of May 2024.
+Bluesky was first announced in 2019 as a Twitter-backed initiative to build an open, decentralized social protocol. It has since become an independent public benefit corporation, with Twitter founder Jack Dorsey leaving the board earlier this year.
+Elon Musk’s X, meanwhile, has been engaged in an escalating legal fight with Brazil’s Supreme Court Justice Alexandre de Moraes over the company’s refusal to block certain accounts as part of a broader crackdown on what Moraes said is election disinformation. 
+X said earlier this month that it would shut down operations in Brazil, with Moraes then warning the company that it would be banned if it did not name a legal representative in the country. He followed through on Friday, and also threatened fines against users who try to circumvent the ban by using a VPN.
+As the ban approached, Brazil’s President Luiz Inácio Lula da Silva seemingly bid farewell to his X followers by linking to his other social media accounts — starting with Bluesky.]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is OpenAI worth $100B?]]></title>
+        <id>https://techcrunch.com/2024/08/31/is-openai-worth-100b/</id>
+        <link href="https://techcrunch.com/2024/08/31/is-openai-worth-100b/"/>
+        <updated>2024-08-31T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI could reportedly increase its valuation to $100 billion. Nvidia and Apple are apparently in talks to contribute to the company’s next fundraising round, and Thrive Capital would lead the deal should it happen, according to The New York Times. OpenAI’s annualized revenue reportedly eclipsed $3.4 billion early this year, but it’s said to be on track to lose $5 billion by year end as it expands its AI training and staffing efforts.
+X is marking some links to NPR’s website as “unsafe.” When users click through to read the latest story about an altercation between a Trump campaign staffer and an Arlington National Cemetery employee, they are met with a warning typically applied to malicious links. It’s unclear why NPR’s site would have triggered this warning, though it raises questions a…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon hires the founders of AI robotics startup Covariant]]></title>
+        <id>https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/</id>
+        <link href="https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/"/>
+        <updated>2024-08-31T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon announced Friday evening that it has hired Covariant’s founders — Pieter Abbeel, Peter Chen, and Rocky Duan — along with “about a quarter” of the startup’s employees. It’s also signed a non-exclusive license to use Covariant’s robotic foundation models.
+Earlier this year, Chen told TechCrunch that Covariant is building “a large language model, but for robot language.” In other words, it’s creating AI models for robots, with an initial focus on robotic arms performing common warehouse tasks like bin picking.
+
+
+
+
+“With some of the smartest minds, we will advance fundamental research, marrying our rich expertise to unlock new ways for AI and robots to assist our operations employees,” said Joseph Quinlivan, Vice President of Amazon Fulfillment Technologies & Robotics, in a statement. “[Embedding] Covariant’s AI technology into our existing robot fleet will make them more performant and create real world value for our customers.”
+The deal sounds similar to Amazon’s hiring of the founders of AI startup Adept back in June — another deal that gave Amazon access to new talent and technology without having to fully acquire an existing startup.
+At the time, The Verge described this approach as a “reverse acquihire,” where tech giants facing antitrust scrutiny can use hiring and licensing deals to disguise their acquisitions, rather than the other way around. 
+Covariant, meanwhile, said it will continue operating under the leadership of Ted Stinson and Tianhao Zhang, with Stinson — who’d been the startup’s COO — now stepping into the CEO role. The company added that it remains “dedicated to delivering the Covariant Brain into production environments across a broad set of global industries, including apparel, health and beauty, grocery, and pharmaceuticals.”]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grammy CEO says music industry also has AI concerns]]></title>
+        <id>https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/</id>
+        <link href="https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/"/>
+        <updated>2024-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Harvey Mason Jr., CEO of the Recording Academy, caused a stir a few months ago. 
+He announced that the organization’s prestigious Grammy Awards would finally accept music made with artificial intelligence. At first, people were confused, and then Mason came out to clarify that he meant only humans can submit to the awards, but that AI can be used in the creative process. 
+
+
+
+
+“It’s a bit of a fine line, but that’s going to evolve,” he told TechCrunch about how the Academy is assessing the use of artificial intelligence in music. “My hope is that we can continue to celebrate human creativity at the highest level.” 
+The rise of AI has consumed the arts, just as it has Silicon Valley. Everyone is pondering: Will AI replace me? And within music — what happens to copyright? Royalties? To the ha…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is my vision that bad? No, it's just a bug in Apple's Calculator]]></title>
+        <id>https://news.ycombinator.com/item?id=41406550</id>
+        <link href="https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/"/>
+        <updated>2024-08-31T04:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/
+Comments URL: https://news.ycombinator.com/item?id=41406550
+Points: 604
+# Comments: 375]]></summary>
+        <author>
+            <name>wojtczyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nike’s Biggest mistake?]]></title>
+        <id>https://www.youtube.com/watch?v=FwgcKay6KS4</id>
+        <link href="https://www.youtube.com/watch?v=FwgcKay6KS4"/>
+        <updated>2024-08-30T17:48:11.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This speech Made Donald Trump President of USA🇺🇸 : Marketing Strategy Explained]]></title>
+        <id>https://www.youtube.com/watch?v=OeHVlN73aKA</id>
+        <link href="https://www.youtube.com/watch?v=OeHVlN73aKA"/>
+        <updated>2024-08-30T14:30:12.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnandTech Farewell]]></title>
+        <id>https://news.ycombinator.com/item?id=41399872</id>
+        <link href="https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"/>
+        <updated>2024-08-30T12:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell
+Comments URL: https://news.ycombinator.com/item?id=41399872
+Points: 2947
+# Comments: 587]]></summary>
+        <author>
+            <name>janice1999</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The secret inside One Million Checkboxes]]></title>
+        <id>https://news.ycombinator.com/item?id=41395413</id>
+        <link href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/"/>
+        <updated>2024-08-29T21:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eieio.games/essays/the-secret-in-one-million-checkboxes/
+Comments URL: https://news.ycombinator.com/item?id=41395413
+Points: 2306
+# Comments: 217]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elasticsearch is open source, again]]></title>
+        <id>https://news.ycombinator.com/item?id=41394797</id>
+        <link href="https://www.elastic.co/blog/elasticsearch-is-open-source-again"/>
+        <updated>2024-08-29T20:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.elastic.co/blog/elasticsearch-is-open-source-again
+Comments URL: https://news.ycombinator.com/item?id=41394797
+Points: 749
+# Comments: 433]]></summary>
+        <author>
+            <name>dakrone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing airport security via SQL injection]]></title>
+        <id>https://news.ycombinator.com/item?id=41392128</id>
+        <link href="https://ian.sh/tsa"/>
+        <updated>2024-08-29T15:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ian.sh/tsa
+Comments URL: https://news.ycombinator.com/item?id=41392128
+Points: 1959
+# Comments: 426]]></summary>
+        <author>
+            <name>iancarroll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome is entrenching third-party cookies that will mislead users]]></title>
+        <id>https://news.ycombinator.com/item?id=41391412</id>
+        <link href="https://brave.com/blog/related-website-sets/"/>
+        <updated>2024-08-29T14:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brave.com/blog/related-website-sets/
+Comments URL: https://news.ycombinator.com/item?id=41391412
+Points: 500
+# Comments: 307]]></summary>
+        <author>
+            <name>NayamAmarshe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can solar costs keep shrinking?]]></title>
+        <id>https://news.ycombinator.com/item?id=41390884</id>
+        <link href="https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking"/>
+        <updated>2024-08-29T13:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking
+Comments URL: https://news.ycombinator.com/item?id=41390884
+Points: 396
+# Comments: 602]]></summary>
+        <author>
+            <name>GoRudy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indian Education is a Scam?]]></title>
+        <id>https://www.youtube.com/watch?v=LiFA4CBDYDs</id>
+        <link href="https://www.youtube.com/watch?v=LiFA4CBDYDs"/>
+        <updated>2024-08-29T13:56:30.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Cost Mini PCs]]></title>
+        <id>https://news.ycombinator.com/item?id=41389931</id>
+        <link href="https://lowcostminipcs.com/"/>
+        <updated>2024-08-29T12:03:41.000Z</updated>
+        <summary type="html"><![CDATA[While searching for mini PCs for my home server, I figured I'd use the eBay API to find the cheapest ones. Inspired by diskprices.com, I built a static site using Eleventy and a python script that uses regex to parse the data. I tried to include as many filters as possible like OS, Wifi, HDMI etc.
+I would like to add power usage, noise levels, PCIe slots but that data is hard to find.
+Please let me know if you have any feedback / suggestions.
+Thanks!
+Comments URL: https://news.ycombinator.com/item?id=41389931
+Points: 673
+# Comments: 302]]></summary>
+        <author>
+            <name>mjcurl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI is good at unminifying code]]></title>
+        <id>https://news.ycombinator.com/item?id=41389185</id>
+        <link href="https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai"/>
+        <updated>2024-08-29T10:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai
+Comments URL: https://news.ycombinator.com/item?id=41389185
+Points: 919
+# Comments: 301]]></summary>
+        <author>
+            <name>punkpeye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK rail minister got engineer sacked for raising safety concerns]]></title>
+        <id>https://news.ycombinator.com/item?id=41388888</id>
+        <link href="https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/"/>
+        <updated>2024-08-29T09:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/
+Comments URL: https://news.ycombinator.com/item?id=41388888
+Points: 518
+# Comments: 289]]></summary>
+        <author>
+            <name>scrlk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Con: $1697 for an on/off switch]]></title>
+        <id>https://news.ycombinator.com/item?id=41386319</id>
+        <link href="https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"/>
+        <updated>2024-08-29T01:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/
+Comments URL: https://news.ycombinator.com/item?id=41386319
+Points: 1969
+# Comments: 476]]></summary>
+        <author>
+            <name>ranebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this the Reason Why Kolkata Has Failed to Become IT Hub?]]></title>
+        <id>https://www.youtube.com/watch?v=QneQbVzfw3E</id>
+        <link href="https://www.youtube.com/watch?v=QneQbVzfw3E"/>
+        <updated>2024-08-28T05:15:39.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusion models are real-time game engines]]></title>
+        <id>https://news.ycombinator.com/item?id=41375548</id>
+        <link href="https://gamengen.github.io/"/>
+        <updated>2024-08-28T02:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gamengen.github.io
+Comments URL: https://news.ycombinator.com/item?id=41375548
+Points: 1141
+# Comments: 408]]></summary>
+        <author>
+            <name>jmorgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Collection of Free Public APIs That Is Tested Daily]]></title>
+        <id>https://news.ycombinator.com/item?id=41371170</id>
+        <link href="https://www.freepublicapis.com/"/>
+        <updated>2024-08-27T18:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.freepublicapis.com/
+Comments URL: https://news.ycombinator.com/item?id=41371170
+Points: 599
+# Comments: 122]]></summary>
+        <author>
+            <name>abhas9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft donates the Mono Project to the Wine team]]></title>
+        <id>https://news.ycombinator.com/item?id=41371106</id>
+        <link href="https://www.mono-project.com/"/>
+        <updated>2024-08-27T18:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mono-project.com/
+Comments URL: https://news.ycombinator.com/item?id=41371106
+Points: 1430
+# Comments: 478]]></summary>
+        <author>
+            <name>itherseed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Monospace Web]]></title>
+        <id>https://news.ycombinator.com/item?id=41370020</id>
+        <link href="https://owickstrom.github.io/the-monospace-web/"/>
+        <updated>2024-08-27T17:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://owickstrom.github.io/the-monospace-web/
+Comments URL: https://news.ycombinator.com/item?id=41370020
+Points: 608
+# Comments: 153]]></summary>
+        <author>
+            <name>mrunseen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Nike Lost $27 billion in one day? : Direct-to- Consumer Business case study]]></title>
+        <id>https://www.youtube.com/watch?v=G_LdttkVQmI</id>
+        <link href="https://www.youtube.com/watch?v=G_LdttkVQmI"/>
+        <updated>2024-08-27T13:30:12.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zuckerberg claims regret on caving to White House pressure on content]]></title>
+        <id>https://news.ycombinator.com/item?id=41365868</id>
+        <link href="https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399"/>
+        <updated>2024-08-27T09:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399
+Comments URL: https://news.ycombinator.com/item?id=41365868
+Points: 637
+# Comments: 1257]]></summary>
+        <author>
+            <name>southernplaces7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dokku: My favorite personal serverless platform]]></title>
+        <id>https://news.ycombinator.com/item?id=41358020</id>
+        <link href="https://hamel.dev/blog/posts/dokku/"/>
+        <updated>2024-08-26T15:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hamel.dev/blog/posts/dokku/
+Comments URL: https://news.ycombinator.com/item?id=41358020
+Points: 914
+# Comments: 270]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA releases 1982 Grace Hopper lecture]]></title>
+        <id>https://news.ycombinator.com/item?id=41356528</id>
+        <link href="https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/"/>
+        <updated>2024-08-26T12:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/
+Comments URL: https://news.ycombinator.com/item?id=41356528
+Points: 934
+# Comments: 222]]></summary>
+        <author>
+            <name>gaws</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing a bug in Google Chrome as a first-time contributor]]></title>
+        <id>https://news.ycombinator.com/item?id=41355303</id>
+        <link href="https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"/>
+        <updated>2024-08-26T09:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
+Comments URL: https://news.ycombinator.com/item?id=41355303
+Points: 643
+# Comments: 165]]></summary>
+        <author>
+            <name>Ameo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Together let's make sure we create a safer place for women!]]></title>
+        <id>https://www.youtube.com/watch?v=IG36kWLgM6c</id>
+        <link href="https://www.youtube.com/watch?v=IG36kWLgM6c"/>
+        <updated>2024-08-26T07:15:19.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Telegram really an encrypted messaging app?]]></title>
+        <id>https://news.ycombinator.com/item?id=41350530</id>
+        <link href="https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/"/>
+        <updated>2024-08-25T19:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/
+Comments URL: https://news.ycombinator.com/item?id=41350530
+Points: 594
+# Comments: 581]]></summary>
+        <author>
+            <name>md224</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn]]></title>
+        <id>https://news.ycombinator.com/item?id=41347909</id>
+        <link href="https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/"/>
+        <updated>2024-08-25T15:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/
+Comments URL: https://news.ycombinator.com/item?id=41347909
+Points: 733
+# Comments: 830]]></summary>
+        <author>
+            <name>toss1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can India become the 3rd largest Economy?]]></title>
+        <id>https://www.youtube.com/watch?v=wqxR8Uh3D5o</id>
+        <link href="https://www.youtube.com/watch?v=wqxR8Uh3D5o"/>
+        <updated>2024-08-25T13:54:10.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What are you working on (August 2024)?]]></title>
+        <id>https://news.ycombinator.com/item?id=41342017</id>
+        <link href="https://news.ycombinator.com/item?id=41342017"/>
+        <updated>2024-08-24T22:00:34.000Z</updated>
+        <summary type="html"><![CDATA[What are you working on? Any new ideas that you're thinking about?
+Comments URL: https://news.ycombinator.com/item?id=41342017
+Points: 634
+# Comments: 1416]]></summary>
+        <author>
+            <name>david927</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram founder Pavel Durov arrested at French airport]]></title>
+        <id>https://news.ycombinator.com/item?id=41341353</id>
+        <link href="https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport"/>
+        <updated>2024-08-24T20:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport
+Comments URL: https://news.ycombinator.com/item?id=41341353
+Points: 1175
+# Comments: 1038]]></summary>
+        <author>
+            <name>NoxiousPluK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA announces Boeing Starliner crew will return on SpaceX Crew-9]]></title>
+        <id>https://news.ycombinator.com/item?id=41339667</id>
+        <link href="https://twitter.com/NASA/status/1827393397939634503"/>
+        <updated>2024-08-24T17:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/NASA/status/1827393397939634503
+Comments URL: https://news.ycombinator.com/item?id=41339667
+Points: 578
+# Comments: 730]]></summary>
+        <author>
+            <name>ripjaygn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta cancels high-end mixed reality headset after Apple Vision Pro struggles]]></title>
+        <id>https://news.ycombinator.com/item?id=41331369</id>
+        <link href="https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/"/>
+        <updated>2024-08-23T18:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2024/08/23/meta-cancels-high-end-headset/
+Comments URL: https://news.ycombinator.com/item?id=41331369
+Points: 357
+# Comments: 526]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ sues realpage for algorithmic pricing scheme that harms renters]]></title>
+        <id>https://news.ycombinator.com/item?id=41330007</id>
+        <link href="https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters"/>
+        <updated>2024-08-23T15:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters
+Comments URL: https://news.ycombinator.com/item?id=41330007
+Points: 795
+# Comments: 624]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How will Modi govt fix India’s problems? : ft. Sanjeev Sanyal | Indian Business Podcast EP-13]]></title>
+        <id>https://www.youtube.com/watch?v=3Lgf2WHstBY</id>
+        <link href="https://www.youtube.com/watch?v=3Lgf2WHstBY"/>
+        <updated>2024-08-23T15:30:07.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenging Modi’s Vision for India]]></title>
+        <id>https://www.youtube.com/watch?v=vwDfj70PLW4</id>
+        <link href="https://www.youtube.com/watch?v=vwDfj70PLW4"/>
+        <updated>2024-08-23T12:31:52.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewriting Strangler Fig]]></title>
+        <id>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</id>
+        <link href="https://martinfowler.com/articles/2024-strangler-fig-rewrite.html"/>
+        <updated>2024-08-22T15:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Two decades ago, I posted that I found that the strangler fig plant was an interesting metaphor for the gradual replacement of a legacy system. I didn’t refer to the metaphor since, but meanwhile it grew a life of its own. Other people increasingly referred to the strangler fig approach to modernization, and traffic to that post steadily increased: currently it gets about 5000 page views a month, one of the more popular pages on this site. So I decided I needed to update that page, and have rewritten it, focusing on the core activities we need to do to make a success of such a venture.
+(This summarizes more detailed writing from Ian Cartwright, Rob Horn, and James Lewis.)]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europeans are getting sick because life is comfortable!]]></title>
+        <id>https://www.youtube.com/watch?v=bwcQCIUxzak</id>
+        <link href="https://www.youtube.com/watch?v=bwcQCIUxzak"/>
+        <updated>2024-08-22T14:56:58.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to hire great team leaders?]]></title>
+        <id>https://www.youtube.com/watch?v=i-DFjuqslgc</id>
+        <link href="https://www.youtube.com/watch?v=i-DFjuqslgc"/>
+        <updated>2024-08-21T15:12:51.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial intelligence is losing hype]]></title>
+        <id>https://news.ycombinator.com/item?id=41295923</id>
+        <link href="https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"/>
+        <updated>2024-08-20T01:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype
+Comments URL: https://news.ycombinator.com/item?id=41295923
+Points: 568
+# Comments: 782]]></summary>
+        <author>
+            <name>bx376</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise and Fall of Old Monk | Business Case Study]]></title>
+        <id>https://www.youtube.com/watch?v=GQPymbqa08A</id>
+        <link href="https://www.youtube.com/watch?v=GQPymbqa08A"/>
+        <updated>2024-08-19T14:00:29.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating Mess With DNS to use PowerDNS]]></title>
+        <id>https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/</id>
+        <link href="https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/"/>
+        <updated>2024-08-19T08:15:28.000Z</updated>
+        <summary type="html"><![CDATA[About 3 years ago, I announced Mess With DNS in
+this blog post, a playground
+where you can learn how DNS works by messing around and creating records.
+I wasn’t very careful with the DNS implementation though (to quote the release blog
+post: “following the DNS RFCs? not exactly”), and people started reporting
+problems that eventually I decided that I wanted to fix.
+the problems
+Some of the problems people have reported were:
+domain names with underscores weren’t allowed, even though they should be
+If there was a CNAME record for a domain name, it allowed you to create other records for that domain name, even if it shouldn’t
+you could create 2 different CNAME records for the same domain name, which shouldn’t be allowed
+no support for the SVCB or HTTPS record types, which seemed a little comp…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox is the biggest game in the world, but is unprofitable]]></title>
+        <id>https://news.ycombinator.com/item?id=41287099</id>
+        <link href="https://www.matthewball.co/all/roblox2024"/>
+        <updated>2024-08-19T01:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.matthewball.co/all/roblox2024
+Comments URL: https://news.ycombinator.com/item?id=41287099
+Points: 466
+# Comments: 564]]></summary>
+        <author>
+            <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mpv – A free, open-source, and cross-platform media player]]></title>
+        <id>https://news.ycombinator.com/item?id=41277014</id>
+        <link href="https://mpv.io/"/>
+        <updated>2024-08-17T18:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mpv.io/
+Comments URL: https://news.ycombinator.com/item?id=41277014
+Points: 1113
+# Comments: 559]]></summary>
+        <author>
+            <name>Bluestein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X says it is closing operations in Brazil due to judge's content orders]]></title>
+        <id>https://news.ycombinator.com/item?id=41275600</id>
+        <link href="https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/"/>
+        <updated>2024-08-17T16:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/
+Comments URL: https://news.ycombinator.com/item?id=41275600
+Points: 344
+# Comments: 615]]></summary>
+        <author>
+            <name>hexage1814</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this the end of Adani? Decoding SEBI's response to Hindenburg (Business case study)]]></title>
+        <id>https://www.youtube.com/watch?v=tykAc024_8o</id>
+        <link href="https://www.youtube.com/watch?v=tykAc024_8o"/>
+        <updated>2024-08-17T15:30:07.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onboarding to a "legacy" codebase with the help of AI]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-09"/>
+        <updated>2024-08-15T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Much of the attention to generative AI in software development is
+       about generating code. But it may have a more useful role in helping us
+       understand existing code. This is especially true for older codebases
+       that are getting hard to maintain (“legacy”) or to improve onboarding in
+       teams that have a lot of fluctuation.
+Birgitta Böckeler demonstrates the possibilities here
+       by picking an issue from an open-source hospital management system and
+       exploring how AI could help her deal with it.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kim Dotcom's extradition to the U.S. given green light by New Zealand]]></title>
+        <id>https://news.ycombinator.com/item?id=41254989</id>
+        <link href="https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/"/>
+        <updated>2024-08-15T12:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/
+Comments URL: https://news.ycombinator.com/item?id=41254989
+Points: 853
+# Comments: 1150]]></summary>
+        <author>
+            <name>wut42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is a monopoly – the fix isn't obvious]]></title>
+        <id>https://news.ycombinator.com/item?id=41254976</id>
+        <link href="https://www.theregister.com/2024/08/15/google_monopoly_fix/"/>
+        <updated>2024-08-15T12:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2024/08/15/google_monopoly_fix/
+Comments URL: https://news.ycombinator.com/item?id=41254976
+Points: 266
+# Comments: 510]]></summary>
+        <author>
+            <name>rntn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why won't some people pay for news? (2022)]]></title>
+        <id>https://news.ycombinator.com/item?id=41249571</id>
+        <link href="https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257"/>
+        <updated>2024-08-14T19:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257
+Comments URL: https://news.ycombinator.com/item?id=41249571
+Points: 168
+# Comments: 555]]></summary>
+        <author>
+            <name>dredmorbius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speakers for Amsterdam / Netherlands Tech Events]]></title>
+        <id>66bc8eef3afb9d0001eea483</id>
+        <link href="https://blog.pragmaticengineer.com/speakers-for-amsterdam-netherlands-tech-events/"/>
+        <updated>2024-08-14T11:04:33.000Z</updated>
+        <summary type="html"><![CDATA[I (Gergely) sometimes get reachouts to do talks at events in Amsterdam (where I am based,) the Netherlands, or somewhere in Europe. Unfortunately, rarely do talks – I do one conference per year. 
+However, I asked around in the community about tech professionals who do paid talks that software engineers]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klarna’s AI chatbot: how revolutionary is it, really?]]></title>
+        <id>66b4a4213a535b00018b32cd</id>
+        <link href="https://blog.pragmaticengineer.com/klarnas-ai-chatbot/"/>
+        <updated>2024-08-08T10:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Klarna launched its AI chatbot, built in collaboration with OpenAI, which the company wants to use to eliminate 2/3rds of customer support positions. But is it as revolutionary, and as likely to replace jobs, as Klarna claims?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go structs are copied on assignment (and other things about Go I'd missed)]]></title>
+        <id>https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/</id>
+        <link href="https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"/>
+        <updated>2024-08-06T08:38:35.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been writing Go pretty casually for years – the backends for all of my
+playgrounds (nginx, dns, memory, more DNS) are written in Go, but many of those projects are just a few hundred lines and I don’t come back to those codebases much.
+I thought I more or less understood the basics of the language, but this week
+I’ve been writing a lot more Go than usual while working on some upgrades to
+Mess with DNS, and ran into a bug that revealed I
+was missing a very basic concept!
+Then I posted about this on Mastodon and someone linked me to this very cool
+site (and book) called 100 Go Mistakes and How To Avoid Them by Teiva Harsanyi. It just came out in 2022 so it’s relatively new.
+I decided to read through the site to see what else I was missing, and found
+a couple of other misconceptions I ha…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+</feed>
