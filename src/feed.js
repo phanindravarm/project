@@ -1,16 +1,19 @@
 import { useState } from "react";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
+
 export default function Feed({ summary, author, title, id, updated }) {
   let currentDate = new Date().toJSON().slice(0, 10);
 
-  console.log(currentDate);
-  if (updated == currentDate) {
+  // console.log(currentDate);
+  if (updated === currentDate) {
     updated = "Today";
   }
-
+  const [hover, setHover] = useState(false);
   return (
     <Box
+    onMouseEnter={() => setHover(true)}
+      onMouseLeave={() => setHover(false)}
       className="feed"
       sx={{
         display:"flex",
@@ -38,6 +41,24 @@ export default function Feed({ summary, author, title, id, updated }) {
       <Typography className="updated" variant="h7">
         {updated}
       </Typography>
+      
+      {hover && (
+        <Box
+          sx={{
+            position: "absolute",
+            width:"100%",
+            top:"50%",
+            // left: "100%",
+            bgcolor: "lightgrey",
+            padding: 1,
+            borderRadius: 2,
+            mt: 1,
+            zIndex: 10,
+          }}
+        >
+          <Typography variant="body2">{summary}</Typography>
+        </Box>
+      )}
     </Box>
   );
 }

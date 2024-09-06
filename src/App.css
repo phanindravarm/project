@@ -5,6 +5,8 @@ margin: 10px;
 position: relative;
 }
 
+
+
 .MuiTypography-root.MuiTypography-h7.name.css-37jdci-MuiTypography-root{
     font-weight: bold;
 }
@@ -22,6 +24,6 @@ position: relative;
     padding: 10px;
     display: flex;
     flex-wrap: wrap;
-    border: 10px solid black;
+    /* border: 10px solid black; */
     margin:20px;
 }
