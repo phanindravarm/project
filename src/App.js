@@ -4,13 +4,13 @@ import React from "react";
 import "./App.css";
 
 import Grouping from "./grouping.js";
-
+import Header from "./header.js";
 function App() {
 
 
   return (
     <>
-    <h1>hi</h1>
+    <Header />
     <Grouping />
     </>
   );
