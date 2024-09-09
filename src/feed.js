@@ -1,7 +1,7 @@
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 import { Card, Divider, Link } from "@mui/material";
-import Autocomplete from "@mui/material";
+
 export default function Feed({ summary, author, title, id, updated }) {
   let currentDate = new Date().toJSON().slice(0, 10);
 
@@ -22,7 +22,6 @@ export default function Feed({ summary, author, title, id, updated }) {
           sx={{
             display: "flex",
             flexDirection: "column",
-            // border: "1px solid black",
             padding: 2,
             margin: "10px",
             borderRadius: 4,

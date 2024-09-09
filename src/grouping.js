@@ -4,7 +4,7 @@ import { parseXMLFile } from "./parser";
 import Feed from "./feed";
 import Shimmer from "./Shimmer";
 import Autocomplete from "@mui/material/Autocomplete";
-import { Button, Typography } from "@mui/material";
+import { Box, Button, Typography } from "@mui/material";
 import { TextField } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 export default function Grouping() {
@@ -19,7 +19,6 @@ export default function Grouping() {
 
     const info = jsonObj?.feed.entry;
     setData(info);
-    // console.log("info", info);
     const result = Object.groupBy(info, ({ updated }) => updated);
     const resultArray = info.map((item) => item.author.name);
     let extractedAuthors = [...new Set(resultArray)];
@@ -27,51 +26,71 @@ export default function Grouping() {
     setFeeds(result);
     setFilteredFeeds(result);
   }
-  let x;
+
   const [selectedOptions, setSelectedOptions] = useState([]);
   const fliterData = (search, info) => {
+    if (search.length == 0) {
+      return info;
+    }
+    const x = [];
     console.log("search", search);
-    // search.map((sea) => {
-    //    info.filter((inf) => inf.author.name.includes(sea));
-    // });
-    // x = info;
-    // console.log("x", x);
-    return info.filter((inf) => inf.author.name.includes(search));
+    search.map((s) => {
+      console.log("s", s);
+      x.push(info.filter((inf) => inf.author.name.includes(s)));
+    });
+    return x;
   };
   useEffect(() => {
     Main();
   }, []);
   let length = Object.entries(feeds).length;
-  // console.log("result", data);
   return length == 0 ? (
     <Shimmer />
   ) : (
     <div>
-      <Autocomplete
-        multiple
-        options={authors}
-        value={selectedOptions}
-        onChange={(event, newValue) => {
-          setSelectedOptions(newValue);
-          console.log("hey");
+      <Box
+        sx={{
+          display: "flex",
+          justifyContent: "space-between",
         }}
-        renderInput={(params) => (
-          <TextField {...params} label="Select Options" variant="outlined" />
-        )}
-        getOptionLabel={(option) => option}
-      />
-      <Button
-        onClick={() => {
-          const f = fliterData(selectedOptions, data);
-          setSelectedOptions([]);
-          console.log("f", f);
-          setFilteredFeeds(Object.groupBy(f, ({ updated }) => updated));
-        }}
-        variant="outlined"
-        endIcon={<SearchIcon />}
       >
-        Search
-      </Button>
+        <Autocomplete
+          sx={{
+            width: "100%",
+            marginRight: "1%",
+          }}
+          multiple
+          options={authors}
+          value={selectedOptions}
+          onChange={(event, newValue) => {
+            setSelectedOptions(newValue);
+            console.log("hey");
+          }}
+          renderInput={(params) => (
+            <TextField {...params} label="Select Options" variant="outlined" />
+          )}
+          getOptionLabel={(option) => option}
+        />
+        <Button
+          onClick={() => {
+            const f = fliterData(selectedOptions, data);
+            let hey = [].concat.apply([], f);
+
+            setSelectedOptions([]);
+            console.log("f", f);
+            setFilteredFeeds(Object.groupBy(hey, ({ updated }) => updated));
+          }}
+          variant="outlined"
+          sx={{
+            borderColor: "rgb(200,200,200)",
+            color: "grey",
+          }}
+          endIcon={<SearchIcon />}
+        >
+          {" "}
+          search
+        </Button>
+      </Box>
       {Object.values(filteredFeeds)?.map((info) => {
         return (
           <>
