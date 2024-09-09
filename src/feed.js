@@ -1,7 +1,7 @@
-import { useState } from "react";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 import { Card, Divider, Link } from "@mui/material";
+import Autocomplete from "@mui/material";
 export default function Feed({ summary, author, title, id, updated }) {
   let currentDate = new Date().toJSON().slice(0, 10);
 
@@ -14,51 +14,53 @@ export default function Feed({ summary, author, title, id, updated }) {
   }
 
   return (
-    <Link href={id} color="inherit" underline="none">
-      <Card
-        variant="outlined"
-        className="feed"
-        sx={{
-          display: "flex",
-          flexDirection: "column",
-          // border: "1px solid black",
-          padding: 2,
-          margin: "10px",
-          borderRadius: 4,
-          transition: "0.3s",
-          zIndex: 1,
-        }}
-      >
-        <Box
-          className="info_head"
+    <>
+      <Link href={id} color="inherit" underline="none">
+        <Card
+          variant="outlined"
+          className="feed"
           sx={{
             display: "flex",
-            justifyContent: "space-between",
-            marginBottom: "10px",
+            flexDirection: "column",
+            // border: "1px solid black",
+            padding: 2,
+            margin: "10px",
+            borderRadius: 4,
+            transition: "0.3s",
+            zIndex: 1,
           }}
         >
-          <Typography className="title" variant="h5">
-            {title}
-          </Typography>
           <Box
+            className="info_head"
             sx={{
               display: "flex",
-              alignItems: "center",
-              marginY: "5px",
-              color: "grey",
+              justifyContent: "space-between",
+              marginBottom: "10px",
             }}
           >
-            <Typography className="name" variant="h7">
-              {author.name}
+            <Typography className="title" variant="h5">
+              {title}
             </Typography>
-            <Divider orientation="vertical" sx={{ marginX: "10px" }} />
-            <Typography className="updated" variant="h7">
-              {updated}
-            </Typography>
+            <Box
+              sx={{
+                display: "flex",
+                alignItems: "center",
+                marginY: "5px",
+                color: "grey",
+              }}
+            >
+              <Typography className="name" variant="h7">
+                {author.name}
+              </Typography>
+              <Divider orientation="vertical" sx={{ marginX: "10px" }} />
+              <Typography className="updated" variant="h7">
+                {updated}
+              </Typography>
+            </Box>
           </Box>
-        </Box>
-        <Typography>{summary}</Typography>
-      </Card>
-    </Link>
+          <Typography>{summary}</Typography>
+        </Card>
+      </Link>
+    </>
   );
 }
