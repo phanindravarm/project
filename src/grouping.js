@@ -40,9 +40,19 @@ export default function Grouping() {
     });
     return x;
   };
+
   useEffect(() => {
     Main();
   }, []);
+
+  useEffect(()=>{
+    const f = fliterData(selectedOptions, data);
+    let hey = [].concat.apply([], f);
+
+    // setSelectedOptions([]);
+    // console.log("f", f);
+    setFilteredFeeds(Object.groupBy(hey, ({ updated }) => updated));
+  },[selectedOptions])
   let length = Object.entries(feeds).length;
   return length == 0 ? (
     <Shimmer />
@@ -62,34 +72,15 @@ export default function Grouping() {
           multiple
           options={authors}
           value={selectedOptions}
-          onChange={(event, newValue) => {
+          onChange={(_event, newValue) => {
             setSelectedOptions(newValue);
-            console.log("hey");
           }}
           renderInput={(params) => (
-            <TextField {...params} label="Select Options" variant="outlined" />
+            <TextField {...params} label="Select Author" variant="outlined" />
           )}
           getOptionLabel={(option) => option}
         />
-        <Button
-          onClick={() => {
-            const f = fliterData(selectedOptions, data);
-            let hey = [].concat.apply([], f);
-
-            setSelectedOptions([]);
-            console.log("f", f);
-            setFilteredFeeds(Object.groupBy(hey, ({ updated }) => updated));
-          }}
-          variant="outlined"
-          sx={{
-            borderColor: "rgb(200,200,200)",
-            color: "grey",
-          }}
-          endIcon={<SearchIcon />}
-        >
-          {" "}
-          search
-        </Button>
+       
       </Box>
       {Object.values(filteredFeeds)?.map((info) => {
         return (
